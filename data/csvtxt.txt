@@ -1,5 +1,3 @@
-Name,Age,Gender
-John,30,Male
-Jane,25,Female
-Bob,35,Male
-Alice,28,Female
+Jane,Katya
+26,21
+New York,Paris
